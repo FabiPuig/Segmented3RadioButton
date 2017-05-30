@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Segmented3RadioButton</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="rb1">Button 1</string>
+    <string name="rb2">Button 2</string>
+    <string name="rb3">Button 3</string>
+
+</resources>
