@@ -23,18 +23,24 @@
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/rb1" />
+            android:text="@string/rb1"
+            android:padding="10dp"
+            android:button="@null"/>
 
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/rb2" />
+            android:text="@string/rb2"
+            android:padding="10dp"
+            android:button="@null"/>
 
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/rb3" />
-        
+            android:text="@string/rb3"
+            android:padding="10dp"
+            android:button="@null"/>
+
     </RadioGroup>
 
 </android.support.constraint.ConstraintLayout>
